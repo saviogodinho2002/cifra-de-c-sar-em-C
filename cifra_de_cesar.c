@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 void criptografa(char palavra[30]){
     char aux[30];
     int chave=1, i;
